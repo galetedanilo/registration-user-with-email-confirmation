@@ -5,20 +5,20 @@
 Registration User é uma API Rest desenvolvida com Spring Boot para implentar um sistema de cadastro de usuário.
 O usuário deve informar ao sistema um email e uma senha valida. 
 Após receber esses dados o sistema cria um token de confirmação com validade de 15 minutos, após este periodo o token perde sua validade.
-Este projeto foi desenvolvido no curso da AmigosCode com o professor e engenherio de softwate Mama Samba Braima. 
+Este projeto foi desenvolvido no curso da AmigosCode com o professor e engenherio de software Mama Samba Braima. 
 
 
 # Diagrama
 
-![Diaggrama](https://github.com/galetedanilo/registration-user-with-email-confirmation/blob/master/assets/diagram.png)
+![Diaggrama](https://github.com/galetedanilo/registration-user-with-email-confirmation/blob/main/assets/diagram.png)
 
 # Modelo Conceitual
 
-![Modelo](https://github.com/galetedanilo/registration-user-with-email-confirmation/blob/master/assets/modelo.png)
+![Modelo](https://github.com/galetedanilo/registration-user-with-email-confirmation/blob/main/assets/modelo.png)
 
 # Padrão Camada
 
-![Padrao](https://github.com/galetedanilo/registration-user-with-email-confirmation/blob/master/assets/camadas.png)
+![Padrao](https://github.com/galetedanilo/registration-user-with-email-confirmation/blob/main/assets/camadas.png)
 
 # Tecnologias Utilizadas
 
