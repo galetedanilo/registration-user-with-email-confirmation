@@ -12,10 +12,6 @@ Este projeto foi desenvolvido no curso da AmigosCode com o professor e engenheri
 
 ![Diaggrama](https://github.com/galetedanilo/registration-user-with-email-confirmation/blob/main/assets/diagram.png)
 
-# Modelo Conceitual
-
-![Modelo](https://github.com/galetedanilo/registration-user-with-email-confirmation/blob/main/assets/modelo.png)
-
 # Padrão Camada
 
 ![Padrao](https://github.com/galetedanilo/registration-user-with-email-confirmation/blob/main/assets/camadas.png)
